@@ -67,6 +67,18 @@ validadorapp/
 
 ---
 
+## 📊 Resultados del análisis en SonarQube antes de los cambios
+
+![Antes](docs/antes.png)
+
+---
+
+## 🐞 Resultados del análisis de SonarQube despues de los cambios
+
+![Despues](docs/despues.png)
+
+---
+
 ## Preguntas finales
 
 1. ¿Qué tipo de errores detectó SonarQube que podrían haber pasado desapercibidos?
